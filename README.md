@@ -1,5 +1,5 @@
 # spring-master
-스프링 마스터(진)가 되기 위한 여정
+스프링 마스터(진)가 되기 위한 여정 with. [전동혁](https://github.com/jundonghyuk), [차영호](https://github.com/youngh0) 
 
 ## 스케줄
 | 날짜 | 주제 | 브랜치 링크 | 링크 |
